@@ -158,6 +158,10 @@ hr {
     padding-inline-start: 0px;
 }
 
+.list-item-inline{
+    margin: 0.5rem;
+}
+
 /** projects **/
 .showcase-list {
     padding: 2rem;
